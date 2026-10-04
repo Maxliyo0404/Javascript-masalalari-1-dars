@@ -25,3 +25,6 @@
 //  let B = 10;
 //  let C = 12;
 // console.log(A <= B && B <= C);
+  
+
+//Boolean5.
