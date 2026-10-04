@@ -40,5 +40,5 @@
  let A = 8;
  let B = 10;
  let C = 12;
- console.log( A);
+ console.log( A > 0 );
  
