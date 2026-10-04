@@ -20,3 +20,6 @@
 
 
 //Boolean4.
+
+ let A = 24;
+ let B = 2;
