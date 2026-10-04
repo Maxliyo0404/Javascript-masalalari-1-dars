@@ -21,7 +21,7 @@
 
 //Boolean4.
 
- let A = 2;
- let B = 4;
+ let A = 8;
+ let B = 10;
  let C = 6;
 console.log(A <= B <= C);
