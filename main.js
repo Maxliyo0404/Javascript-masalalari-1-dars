@@ -21,6 +21,6 @@
 
 //Boolean4.
 
- let A = 24;
- let B = 2;
- let C = 2;
+ let A = 2;
+ let B = 4;
+ let C = 6;
