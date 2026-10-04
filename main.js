@@ -8,8 +8,8 @@
 
 
 //Boolean2.
-let A = 12;
-console.log(A % 2 === 0);
+// let A = 12;
+// console.log(A % 2 !== 0);
 
 
 
