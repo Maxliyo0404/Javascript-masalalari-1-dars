@@ -31,4 +31,4 @@
 
 let A = 8;
 let B = 10;
-console.log(A % 2 === 0 || B  % );
+console.log(A % 2 === 0 || B  % 2 !== );
