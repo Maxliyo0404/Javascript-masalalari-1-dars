@@ -31,3 +31,4 @@
 
 let A = 8;
 let B = 10;
+console.log();
