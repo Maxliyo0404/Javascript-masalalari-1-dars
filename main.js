@@ -12,4 +12,5 @@
 // console.log(A % 2 !== 0);
 
 
+//Boolean3.
 
