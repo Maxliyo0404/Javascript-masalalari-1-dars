@@ -14,5 +14,5 @@
 
 //Boolean3.
 
-let A = 12;
+let A = 24;
 let B = 12;
