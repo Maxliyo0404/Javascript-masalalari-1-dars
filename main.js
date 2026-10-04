@@ -14,6 +14,6 @@
 
 //Boolean3.
 
-let A = 24;
-let B = 2;
-console.log(A > 2  && B <= 3);
+// let A = 24;
+// let B = 2;
+// console.log(A > 2  && B <= 3);
