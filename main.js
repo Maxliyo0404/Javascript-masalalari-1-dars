@@ -16,4 +16,4 @@
 
 let A = 24;
 let B = 12;
-console.log(A>2  && B <=3);
+console.log(A > 2  && B <= 3);
