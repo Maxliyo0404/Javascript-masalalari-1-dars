@@ -23,3 +23,4 @@
 
  let A = 24;
  let B = 2;
+ let C = 2;
