@@ -29,6 +29,6 @@
 
 //Boolean5.
 
-let A = 8;
-let B = 7;
-console.log(A % 2 === 0 || B  % 2 !== 0 );
+// let A = 8;
+// let B = 7;
+// console.log(A % 2 === 0 || B  % 2 !== 0 );
