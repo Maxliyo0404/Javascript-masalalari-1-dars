@@ -28,3 +28,6 @@
   
 
 //Boolean5.
+
+let A = 8;
+let B = 10;
