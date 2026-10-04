@@ -37,6 +37,6 @@
 //Boolean6.
 
 
-//  let A = 8;
-//  let B = 10;
-//  let C = 12;
+ let A = 8;
+ let B = 10;
+ let C = 12;
