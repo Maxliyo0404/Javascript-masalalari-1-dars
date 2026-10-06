@@ -52,6 +52,6 @@
 
 //Boolean7.
 let a = 4;
-let b = 6;
-let c = 4;
+let b = 4;
+let c = 6;
 console.log((a === b) && (b !== c) && (a === c));
