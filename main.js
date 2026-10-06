@@ -46,5 +46,5 @@
 //Boolean7.
 let son = 345;
 let a = (son % 10);
-let a = (son % 10);
-console.log(a);
+let b = (son % 100) / 10;
+console.log(b);
