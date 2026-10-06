@@ -45,7 +45,7 @@
 
 //Boolean7.
 let son = 345;
-let a =  parseInt (son / 100);
+let a =  son % 10;
 let b = (son % 100) / 10;
 let c = son % 10; 
 console.log(b, a, c);
