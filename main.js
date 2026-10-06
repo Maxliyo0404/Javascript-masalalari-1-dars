@@ -54,4 +54,4 @@
 let a = 4;
 let b = 6;
 let c = 4;
-console.log((a === b) && (b === c) && (a === c));
+console.log((a === b) || (b === c) || (a === c));
