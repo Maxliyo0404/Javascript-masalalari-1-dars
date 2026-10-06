@@ -47,4 +47,5 @@
 let son = 345;
 let a = (son % 10);
 let b = (son / 100) % 10;
-console.log(b);
+let c = son % 100; 
+console.log(c);
