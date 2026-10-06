@@ -120,4 +120,6 @@
 
 //Boolean10.
  let son = 26;
+ console.log();
+ 
  
