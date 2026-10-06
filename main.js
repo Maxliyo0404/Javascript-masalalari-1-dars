@@ -50,8 +50,8 @@
 // let c = (son - (son % 100)) / 100 ; 
 // console.log(( a !== b) && (a !== c) &&  (b !== c));
 
-//Boolean7.
+//Boolean8.
 let a = 4;
 let b = 6;
 let c = 4;
-console.log((a === b) && (b !== c) && (a === c));
+console.log((a === b) && (b === c) && (a === c));
