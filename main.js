@@ -120,6 +120,6 @@
 
 //Boolean10.
  let son = 26;
- console.log();
+ console.log(son % 2 === 0);
  
  
