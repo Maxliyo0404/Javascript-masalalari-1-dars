@@ -127,7 +127,9 @@
 //  console.log((  son >= 100 && son <= 999) && (son % 2 !== 0));
  
 //Boolean12
-let A = 5;
-let B = -3;
-let C = -5;
-console.log((A === -B) || (A === -C)|| (B === -C));
+// let A = 5;
+// let B = -3;
+// let C = -5;
+// console.log((A === -B) || (A === -C)|| (B === -C));
+
+//Boolean13.
