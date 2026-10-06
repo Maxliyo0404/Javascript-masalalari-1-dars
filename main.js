@@ -44,8 +44,8 @@
  
 
 //Boolean7.
-let son = 345;
+let son = 343;
 let a =  son % 10;
 let b = ((son % 100) - (son % 10)) / 10  ;
 let c = (son - (son % 100)) / 100 ; 
-console.log( a !== b && a !== c &&  b !== c);
+console.log(( a !== b) && (a !== c) &&  (b !== c));
