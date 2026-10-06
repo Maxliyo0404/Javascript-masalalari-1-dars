@@ -135,5 +135,5 @@
 //Boolean13.
 let son = 678;
 let a = son % 10;
-let b = son % 10;
-console.log(a);
+let b = ((son % 100 - son % 10) ) / 10 ;
+console.log(b);
