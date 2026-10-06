@@ -66,6 +66,12 @@
 
 
 //Boolean2.
- let A = 14;
- let B = -12;
- console.log(A  >= 0 || B < -2);
+//  let A = 14;
+//  let B = -12;
+//  console.log(A  >= 0 || B < -2);
+
+
+ //Boolean2.
+ let A = 4;
+ let B = 6;
+ let C = 8;
