@@ -119,7 +119,11 @@
  
 
 //Boolean10.
- let son = 26;
- console.log((son >= 0 && son <= 99) && (son % 2 === 0));
+//  let son = 26;
+//  console.log((son >= 0 && son <= 99) && (son % 2 === 0));
+ 
+//Boolean11.
+ let son = 263;
+ console.log((son >= 0 && son >= 99 && son <= 999) && (son % 2 !== 0));
  
  
