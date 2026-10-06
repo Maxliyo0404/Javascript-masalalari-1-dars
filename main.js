@@ -68,4 +68,4 @@
 //Boolean2.
  let A = 14;
  let B = 12;
- console.log(A % 2 === 0);
+ console.log(A  >= 0 || B < -2);
