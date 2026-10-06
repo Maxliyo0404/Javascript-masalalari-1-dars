@@ -56,4 +56,10 @@
 // let c = 4;
 // console.log((a === b) || (b === c) || (a === c));
 
-//Boolean8.
+
+
+                                                //UYGA VAZIFA 
+
+//Boolean1.
+let A = 14;
+console.log(A % 2 === 0);
