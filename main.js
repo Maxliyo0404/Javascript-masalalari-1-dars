@@ -90,9 +90,23 @@
 //    let B = 9;
 //    console.log((A % 2 !== 0) || (B % 2 !== 0) );
    
- //Boolean5.
+ //Boolean6.
 
 //    let A = 8;
 //    let B = 9;
 //    console.log((A % 2 !== 0 && B % 2 === 0) || (A % 2 === 0 && B % 2 !== 0) );
    
+//Boolean7.
+
+//  let A = 4;
+//  let B = 6;
+//  let C = 8;
+// console.log((A > 0) && (B > 0) && (C > 0));
+ 
+//Boolean7.
+
+ let A = 4;
+ let B = 6;
+ let C = 8;
+console.log((A > 0) && (B > 0) && (C > 0));
+ 
