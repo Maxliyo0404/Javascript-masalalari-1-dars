@@ -71,16 +71,22 @@
 //  console.log(A  >= 0 || B < -2);
 
 
- //Boolean2.
+ //Boolean3.
 //  let A = 4;
 //  let B = 6;
 //  let C = 8;
 //  console.log((A < B )&& (B < C));
  
 
- //Boolean3.
+ //Boolean4.
 
-   let A = 3;
-   let B = 5;
-   console.log((A % 2 !== 0) && (B % 2 !== 0) );
+//    let A = 3;
+//    let B = 5;
+//    console.log((A % 2 !== 0) && (B % 2 !== 0) );
+   
+ //Boolean5.
+
+   let A = 8;
+   let B = 9;
+   console.log((A % 2 === 0) && (B % 2 !== 0) );
    
