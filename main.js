@@ -75,3 +75,5 @@
  let A = 4;
  let B = 6;
  let C = 8;
+ console.log();
+ 
