@@ -77,3 +77,5 @@
 //  let C = 8;
 //  console.log((A < B )&& (B < C));
  
+
+ //Boolean3.
