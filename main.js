@@ -120,6 +120,6 @@
 
 //Boolean10.
  let son = 26;
- console.log(son % 2 === 0);
+ console.log((son >= 0) && (son <= 99) && (son % 2 === 0));
  
  
