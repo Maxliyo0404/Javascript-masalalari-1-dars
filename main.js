@@ -149,3 +149,8 @@
 
 
 //Boolean15.
+let son = 787;
+let a = son % 10;
+let b = (son - (son % 100)) / 100;
+console.log(a === b);
+
