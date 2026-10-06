@@ -53,4 +53,5 @@
 //Boolean7.
 let a = 4;
 let b = 6;
-let c = 8;
+let c = 4;
+console.log();
