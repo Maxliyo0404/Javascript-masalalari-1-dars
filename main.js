@@ -108,5 +108,5 @@
  let A = 4;
  let B = 6;
  let C = 8;
-console.log((A > 0) && (B > 0) && (C > 0));
+console.log((A > 0) || (B > 0) || (C > 0));
  
