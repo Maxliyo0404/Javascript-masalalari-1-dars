@@ -51,7 +51,9 @@
 // console.log(( a !== b) && (a !== c) &&  (b !== c));
 
 //Boolean8.
-let a = 4;
-let b = 6;
-let c = 4;
-console.log((a === b) || (b === c) || (a === c));
+// let a = 4;
+// let b = 6;
+// let c = 4;
+// console.log((a === b) || (b === c) || (a === c));
+
+//Boolean8.
