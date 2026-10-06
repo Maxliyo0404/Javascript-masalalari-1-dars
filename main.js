@@ -72,8 +72,8 @@
 
 
  //Boolean2.
- let A = 4;
- let B = 6;
- let C = 8;
- console.log((A < B )&& (B < Cj));
+//  let A = 4;
+//  let B = 6;
+//  let C = 8;
+//  console.log((A < B )&& (B < C));
  
