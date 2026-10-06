@@ -141,8 +141,8 @@
 
 
 //Boolean14.
-let son = 678;
-let a = son % 10;
-let b = ((son % 100 - son % 10) ) / 10 ;
-let c = (son - (son % 100)) / 100 ;
-console.log(a > b && b > c);
+// let son = 987;
+// let a = son % 10;
+// let b = ((son % 100 - son % 10) ) / 10 ;
+// let c = (son - (son % 100)) / 100 ;
+// console.log((a > b && b > c) || (a < b && b < c));
