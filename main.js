@@ -154,9 +154,5 @@
 // let b = (son - (son % 100)) / 100;
 // console.log(a === b);
 
-let son = 267;
-let a = son % 10 ;
-let b = ((son % 100 - son % 10)) /10;
-let c = (son - (son % 100)) / 100;
-console.log( a, b, c);
+
 
