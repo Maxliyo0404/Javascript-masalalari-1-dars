@@ -61,5 +61,11 @@
                                                 //UYGA VAZIFA 
 
 //Boolean1.
-let A = 14;
-console.log(A % 2 === 0);
+// let A = 14;
+// console.log(A % 2 === 0);
+
+
+//Boolean2.
+ let A = 14;
+ let B = 12;
+ console.log(A % 2 === 0);
